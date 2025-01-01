@@ -13,4 +13,5 @@ This project is based on MERN Stack web application which was assigned by <b>UNI
 8) Message Encryption: Messages are securely encrypted to protect user privacy and ensure data security. Scalable Architecture: Built with scalability in mind, the app can handle growing user bases and increased messaging loads.
 9) User -Friendly Experience: Intuitive design and smooth functionality make the app easy to use for all types of users.
 
+## PREPARATIONS:
 https://github.com/users/Shristi1810/projects/1/views/1?pane=info&statusUpdateId=73288
