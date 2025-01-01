@@ -10,4 +10,5 @@ This project is based on MERN Stack web application .
 5) Robust Error Handling: Comprehensive error handling is implemented both on the server and client sides, ensuring a smooth user experience even in unexpected scenarios. 
 6) Modern UI with TailwindCSS: The application boasts a sleek and responsive user interface, crafted using TailwindCSS for rapid and consistent styling.
 7) End-to-End Deployment: The app is designed for hassle-free deployment, with a focus on free deployment options to make it accessible to everyone.
-8) Message Encryption: Messages are securely encrypted to protect user privacy and ensure data security. Scalable Architecture: Built with scalability in mind, the app can handle growing user bases and increased messaging loads. User -Friendly Experience: Intuitive design and smooth functionality make the app easy to use for all types of users.
+8) Message Encryption: Messages are securely encrypted to protect user privacy and ensure data security. Scalable Architecture: Built with scalability in mind, the app can handle growing user bases and increased messaging loads.
+9) User -Friendly Experience: Intuitive design and smooth functionality make the app easy to use for all types of users.
