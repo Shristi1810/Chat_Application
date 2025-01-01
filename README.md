@@ -12,3 +12,5 @@ This project is based on MERN Stack web application which was assigned by <b>UNI
 7) End-to-End Deployment: The app is designed for hassle-free deployment, with a focus on free deployment options to make it accessible to everyone.
 8) Message Encryption: Messages are securely encrypted to protect user privacy and ensure data security. Scalable Architecture: Built with scalability in mind, the app can handle growing user bases and increased messaging loads.
 9) User -Friendly Experience: Intuitive design and smooth functionality make the app easy to use for all types of users.
+
+https://github.com/users/Shristi1810/projects/1/views/1?pane=info&statusUpdateId=73288
