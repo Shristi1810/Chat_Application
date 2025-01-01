@@ -1,5 +1,5 @@
 # Chat_Application
-This project is based on MERN Stack web application .
+This project is based on MERN Stack web application which was assigned by <b>UNIFIED MENTER</b> during my internships.
 
 # Key Features
 
